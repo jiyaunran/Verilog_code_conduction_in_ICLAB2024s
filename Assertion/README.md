@@ -1,0 +1,6 @@
+# Lab08 Tea House
+This lab is an implementation of assertions. The hardware system simulates the beverage dispensing process, which will take s series of input such as beverage type, size of beverage, action type... 
+
+This system will offer beverage for customer and also simulate the beverage supplement stage. At the mean time, the system will also check if there are any overflow, like outdated beverage or beverage insufficient...
+
+Besides hardware system, this lab focus on SystemVerilog assertion, so this lab requires to use assetion to check not only hardware system works out fine but also check coverage of the pattern.
