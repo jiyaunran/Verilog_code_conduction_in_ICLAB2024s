@@ -3,4 +3,4 @@ This lab is an implementation of assertions. The hardware system simulates the b
 
 This system will offer beverage for customer and also simulate the beverage supplement stage. At the mean time, the system will also check if there are any overflow, like outdated beverage or beverage insufficient...
 
-Besides hardware system, this lab focus on SystemVerilog assertion, so this lab requires to use assetion to check not only hardware system works out fine but also check coverage of the pattern.
+It's a simple system and mostly about FSM, and it's mainly for asserion coding in next lab. 
