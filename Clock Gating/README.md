@@ -6,4 +6,4 @@ The design will take two 8-bit unsigned img, 8-bit unsigned kernel and weight as
 The recognition process will run L1 difference on two encoded embedding and output the similarity score.
 
 # Clock Gating
-The sub folder will contain two type of code, one with clock gating and the other don't. The lab focus on the power reduction and has measured it through PrimeTime power analysis. The power reduction achieve over 25% reduction in the end.
+The sub folder will contain two type of code, one with clock gating and the other don't. The lab focus on the power reduction and has measured it through PrimeTime power analysis. The power reduction achieve over 33.2% reduction in the end.
