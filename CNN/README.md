@@ -5,6 +5,9 @@ The CNN network is shown in the below figure:
 ![CNN_subnetowork](https://github.com/jiyaunran/Verilog_code_conduction_in_ICLAB2024s/blob/main/CNN/CNN_subnetowork.png)
 
 (1.) Padding is available with zero padding or replication padding.
+
 (2.) Convolution is fixed with stride 1, filter size 3x3
+
 (3.) Normalizaion is Min-Max Normalization
+
 (4.) Activation is available with Sigmoid, Tanh, Soft plus or ReLU
